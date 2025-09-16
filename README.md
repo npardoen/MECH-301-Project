@@ -1,3 +1,3 @@
 # MECH 301 Projects
 
-These project were created to demistatere our knowledge form what was learned in lab for FEA and CFD software that was used.
+These projects were created to demonstrate my knowledge of what was learned in the lecture and lab for Abaqus FEA and Ansys Fluent.
